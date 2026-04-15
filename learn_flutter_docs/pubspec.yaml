@@ -1,0 +1,25 @@
+name: learn_flutter_docs
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/03_layout/01_overview/02_row_column_many_widget/images/
+    - lib/03_layout/01_overview/03_container/images/
+    - lib/03_layout/01_overview/04_grid_and_view/images/
+    - lib/03_layout/01_overview/05_grid_list_demo/images/
+    - lib/03_layout/01_overview/06_grid_and_list/images/
