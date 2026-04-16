@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  animations: ^2.1.2
 
 dev_dependencies:
   flutter_test:
@@ -23,3 +24,6 @@ flutter:
     - lib/03_layout/01_overview/04_grid_and_view/images/
     - lib/03_layout/01_overview/05_grid_list_demo/images/
     - lib/03_layout/01_overview/06_grid_and_list/images/
+    - lib/03_layout/01_overview/08_card_and_stack/images/
+    - lib/03_layout/01_overview/09_bottom_navigation_demo/images/
+    - lib/03_layout/01_overview/10_cards_demo/images/
