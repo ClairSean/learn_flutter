@@ -27,3 +27,6 @@ flutter:
     - lib/03_layout/01_overview/08_card_and_stack/images/
     - lib/03_layout/01_overview/09_bottom_navigation_demo/images/
     - lib/03_layout/01_overview/10_cards_demo/images/
+    - lib/03_layout/03_layout_tutorial/images/
+    - lib/03_layout/05_scrolling/03_floating_app_bar/images/
+    - lib/03_layout/05_scrolling/04_parallax_scrolling/images/
