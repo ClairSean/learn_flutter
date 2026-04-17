@@ -30,3 +30,4 @@ flutter:
     - lib/03_layout/03_layout_tutorial/images/
     - lib/03_layout/05_scrolling/03_floating_app_bar/images/
     - lib/03_layout/05_scrolling/04_parallax_scrolling/images/
+    - lib/04_adaptive_responsive/02_general/assets/
