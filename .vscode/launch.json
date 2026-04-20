@@ -1,0 +1,108 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "learn_flutter_docs",
+            "cwd": "learn_flutter_docs",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "learn_flutter_docs (profile mode)",
+            "cwd": "learn_flutter_docs",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "learn_flutter_docs (release mode)",
+            "cwd": "learn_flutter_docs",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "package_demos",
+            "cwd": "package_demos",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "package_demos (profile mode)",
+            "cwd": "package_demos",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "package_demos (release mode)",
+            "cwd": "package_demos",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "birdle",
+            "cwd": "flutter_official_tutorials\\birdle",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "birdle (profile mode)",
+            "cwd": "flutter_official_tutorials\\birdle",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "birdle (release mode)",
+            "cwd": "flutter_official_tutorials\\birdle",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "rolodex",
+            "cwd": "flutter_official_tutorials\\rolodex",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "rolodex (profile mode)",
+            "cwd": "flutter_official_tutorials\\rolodex",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "rolodex (release mode)",
+            "cwd": "flutter_official_tutorials\\rolodex",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "wikipedia_reader",
+            "cwd": "flutter_official_tutorials\\wikipedia_reader",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "wikipedia_reader (profile mode)",
+            "cwd": "flutter_official_tutorials\\wikipedia_reader",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "wikipedia_reader (release mode)",
+            "cwd": "flutter_official_tutorials\\wikipedia_reader",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
