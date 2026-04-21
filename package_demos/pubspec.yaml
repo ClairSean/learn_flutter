@@ -11,11 +11,16 @@ dependencies:
     sdk: flutter
   shared_preferences: ^2.5.5 # 轻量级键值对本地持久化存储
   provider: ^6.1.2 # 状态管理
+  drift: ^2.32.1 # 响应式数据库
+  drift_flutter: ^0.3.0 # Drift Flutter 平台实现
+  path_provider: ^2.1.5 # 获取文件系统路径
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^6.0.0
+  flutter_lints: ^6.0.0 # 代码 lint 规则
+  drift_dev: ^2.32.1 # Drift 代码生成
+  build_runner: ^2.13.1 # 代码生成构建工具
 
 flutter:
   uses-material-design: true
